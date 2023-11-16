@@ -1,9 +1,15 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Chat sencillo con servidor de express y sockets con Socket.io.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+
+# Pasos para ejecucion:
+Reconstruir los módulos de node con el comando
 
 ```
 npm install
 ```
+
+Ejecutar la app, esta en la carpeta server.
+
+```node server/server``` o ```nodemon server/server```
